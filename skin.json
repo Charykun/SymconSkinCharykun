@@ -8,6 +8,8 @@
     [
         "Close",
         "CloseRed",
+        "Flame",
+        "FlameRed",
         "Right",
         "RightGreen",
         "RightRed",
