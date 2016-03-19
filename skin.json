@@ -6,6 +6,9 @@
     "git": "https:\/\/github.com\/Charykun\/SymconSkinCharykun.git",
     "icons": 
     [
+        "Right",
+        "RightGreen",
+        "RightRed",
         "Transparent"
     ]
 }
