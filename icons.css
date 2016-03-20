@@ -23,10 +23,10 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Fan.svg); 
 }
-.ipsIconFanRed
+.ipsIconFanGreen
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/FanRed.svg); 
+    background-image: url(icons/FanGreen.svg); 
 }
 .ipsIconFlame
 { 
