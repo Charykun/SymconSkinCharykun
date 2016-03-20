@@ -10,6 +10,8 @@
         "CancelRed",
         "Close",
         "CloseRed",
+        "Fan",
+        "FanGreen",
         "Flame",
         "FlameRed",
         "Pressure",
