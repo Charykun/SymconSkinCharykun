@@ -53,6 +53,26 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/RightRed.svg); 
 }
+.ipsIconTemperature
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Temperature.svg); 
+}
+.ipsIconTemperatureBlue
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TemperatureBlue.svg); 
+}
+.ipsIconTemperatureGreen
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TemperatureGreen.svg); 
+}
+.ipsIconTemperatureRed
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TemperatureRed.svg); 
+}
 .ipsIconTransparent 
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
