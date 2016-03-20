@@ -6,12 +6,12 @@
 .ipsIconClose
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Close.png); 
+    background-image: url(icons/Close.svg); 
 }
 .ipsIconCloseRed
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/CloseRed.png); 
+    background-image: url(icons/CloseRed.svg); 
 }
 .ipsIconFlame
 { 
