@@ -3,6 +3,11 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Cancel.svg); 
 }
+.ipsIconCancelRed
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/CancelRed.svg); 
+}
 .ipsIconClose
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
