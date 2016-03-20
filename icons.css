@@ -48,6 +48,11 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Light-100.svg); 
 }
+.ipsIconMonitor
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Monitor.svg); 
+}
 .ipsIconPressure
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
