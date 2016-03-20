@@ -16,42 +16,42 @@
 .ipsIconFlame
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Flame.png); 
+    background-image: url(icons/Flame.svg); 
 }
 .ipsIconFlameRed
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/FlameRed.png); 
-}
-.ipsIconPressure
-{ 
-    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Pressure.png); 
+    background-image: url(icons/FlameRed.svg); 
 }
 .ipsIconLight-0
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Light-0.png); 
+    background-image: url(icons/Light-0.svg); 
 }
 .ipsIconLight-100
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Light-100.png); 
+    background-image: url(icons/Light-100.svg); 
+}
+.ipsIconPressure
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Pressure.svg); 
 }
 .ipsIconRight
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/Right.png); 
+    background-image: url(icons/Right.svg); 
 }
 .ipsIconRightGreen
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/RightGreen.png); 
+    background-image: url(icons/RightGreen.svg); 
 }
 .ipsIconRightRed
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
-    background-image: url(icons/RightRed.png); 
+    background-image: url(icons/RightRed.svg); 
 }
 .ipsIconTransparent 
 { 
