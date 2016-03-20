@@ -20,6 +20,7 @@
         "TemperatureBlue",
         "TemperatureGreen",
         "TemperatureRed",
-        "Transparent"
+        "Transparent",
+        "WindowsPC"
     ]
 }

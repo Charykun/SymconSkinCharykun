@@ -83,3 +83,8 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Transparent.png); 
 }
+.ipsIconWindowsPC
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/WindowsPC.svg); 
+}
