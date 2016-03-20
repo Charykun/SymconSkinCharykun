@@ -68,6 +68,21 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/RightRed.svg); 
 }
+.ipsIconTelevision-0
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Television.svg); 
+}
+.ipsIconTelevision-100
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TelevisionGreen.svg); 
+}
+.ipsIconTelevisionGreen
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TelevisionGreen.svg); 
+}
 .ipsIconTemperature
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
