@@ -28,6 +28,7 @@
         "TemperatureGreen",
         "TemperatureRed",
         "Transparent",
+        "WashingMachine",
         "WindowsPC"
     ]
 }
