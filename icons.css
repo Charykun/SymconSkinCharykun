@@ -103,6 +103,31 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Tablet.svg); 
 }
+.ipsIconSteckdose
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Steckdose.svg); 
+}
+.ipsIconSteckdoseGreen
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/SteckdoseGreen.svg); 
+}
+.ipsIconSteckdoseRed
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/SteckdoseRed.svg); 
+}
+.ipsIconSteckdoseBlue
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/SteckdoseBlue.svg); 
+}
+.ipsIconSteckdoseYellow
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/SteckdoseYellow.svg); 
+}
 .ipsIconTelevision
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
