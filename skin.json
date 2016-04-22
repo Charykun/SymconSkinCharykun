@@ -7,6 +7,11 @@
     "icons": 
     [
         "Air",
+        "Barcode",
+        "BarcodeBlue",
+        "BarcodeRed",
+        "BarcodeGreen",
+        "BarcodeYellow",
         "Cancel",
         "CancelRed",
         "Close",
