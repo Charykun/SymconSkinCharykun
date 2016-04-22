@@ -3,6 +3,31 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/Air.svg); 
 }
+.ipsIconBarcode
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/Barcode.svg); 
+}
+.ipsIconBarcodeBlue
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/BarcodeBlue.svg); 
+}
+.ipsIconBarcodeRed
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/BarcodeRed.svg); 
+}
+.ipsIconBarcodeGreen
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/BarcodeGreen.svg); 
+}
+.ipsIconBarcodeYellow
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/BarcodeYellow.svg); 
+}
 .ipsIconCancel
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
