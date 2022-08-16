@@ -183,6 +183,11 @@
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
     background-image: url(icons/TemperatureRed.svg); 
 }
+.ipsIconTemperatureYellow
+{ 
+    color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
+    background-image: url(icons/TemperatureYellow.svg); 
+}
 .ipsIconTransparent 
 { 
     color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-repeat: no-repeat; 
